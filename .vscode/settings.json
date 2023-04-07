@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "eslint.codeActionsOnSave.rules": null,
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14
+}
